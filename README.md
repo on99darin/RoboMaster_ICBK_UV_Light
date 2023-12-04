@@ -15,6 +15,6 @@ UV灯板必须使用散热鳍片，规格：`20mm*14mm*6mm`或定制
 上电连续测试60分钟，稳定使用
 
 ## 实物图
-<p align="center">
+<p align="left">
   <img width="195" height="200" src="https://github.com/darin86/RoboMaster_ICBK_UV_Light/blob/main/real.jpg">
 </p>
